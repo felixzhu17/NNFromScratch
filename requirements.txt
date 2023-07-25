@@ -2,3 +2,6 @@ numpy
 pandas
 scikit-learn
 torch
+altair
+spacy
+torchtext
